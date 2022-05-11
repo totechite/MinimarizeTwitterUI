@@ -14,10 +14,6 @@ English: [README-en.md](./README_en.md)
 
 ```<div data-testid="sidebarColumn"></div>```を消してサイドカラムを消します。
 
-### なんで消すの ?
-
-現状気が散って見づらいからです。   
-改善されるまでの一時しのぎに使います。
 
 ### LICENSE  
 [MIT](./LICENSE)
